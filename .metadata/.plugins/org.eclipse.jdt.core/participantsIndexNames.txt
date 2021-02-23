@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+C:\Users\yorik\Documents\workspace_jee_mds_b3_20_21\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2493497404.index
+\ProductManager\src
+C:\Users\yorik\Documents\workspace_jee_mds_b3_20_21\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\329626048.index
+\ProductManager\src
